@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BookKeeping</string>
+    <string name="accountName">Name: </string>
+    <string name="accountBalance">Balance: </string>
+    <string name="accountDesc">Description: </string>
+
+    <string name="time">Time: </string>
+    <string name="type">Type: </string>
+    <string name="accountFrom">Account from: </string>
+    <string name="accountTo">Account to: </string>
+    <string name="typeOperation">Type operation: </string>
+    <string name="value">Value: </string>
+    <string name="category">Category: </string>
+    <string name="operationDesc">Description: </string>
+
+    <string name="categoryArrival">arrival</string>
+    <string name="categoryTransfer">transfer</string>
+
+    <string name="expense">expense</string>
+
+    <string name="newOperation">New operation</string>
+    <string name="newAccount">New account</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="search_hint">Search</string>
+
+    <string name="accountTab">Accounts</string>
+    <string name="arrivalTab">Arrivals</string>
+    <string name="transferTab">Transfers</string>
+
+    <string name="error">Wrong data! Try again!</string>
+</resources>
